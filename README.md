@@ -24,8 +24,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/hizkiaarundaa/fm-qr-code)
+- Live Site URL: [Github Page](https://hizkiaarundaa.github.io/fm-qr-code/)
 
 ### Built with
 
